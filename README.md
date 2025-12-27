@@ -3,7 +3,7 @@
 > **Create, edit, and iterate on 3D models using plain language.**  
 > No CAD. No GPUs. No weeks of training.
 
-[![Vi3W Demo](https://www.youtube.com/watch?v=oGOkx7cuwvo)
+[![Vi3W Demo](https://img.youtube.com/vi/oGOkx7cuwvo/hqdefault.jpg)](https://www.youtube.com/watch?v=oGOkx7cuwvo)
 
 Vi3W is an AI-powered **text-to-3D generation and editing system** built with **Google AI Studio** and **Gemini 3 Pro**.  
 Its single goal: **make 3D creation as accessible as writing text**.
